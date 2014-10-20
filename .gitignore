@@ -1,0 +1,5 @@
+caird-common/.settings/org.eclipse.jdt.core.prefs
+caird-common/.settings/org.eclipse.m2e.core.prefs
+caird-server/target/classes/META-INF/maven/com.ctrip.caird/caird-server/pom.properties
+*.class
+*.prefs
