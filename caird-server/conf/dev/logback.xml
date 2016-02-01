@@ -5,7 +5,7 @@
 	<appender name="CentralLogging"
 		class="com.ctrip.freeway.appender.CentralLoggingAppender">
 		<appId>920841</appId><!--这是你应用的appId -->
-		<serverIp>ip</serverIp><!--这是centralLogging的地址，这是uat环境的，如果是生产环境，请换成相应的地址:collector.logging.sh.ctriptravel.com -->
+		<serverIp>ip</serverIp><!--这是centralLogging的地址，这是uat环境的，如果是生产环境，请换成相应的地址 -->
 		<serverPort>63100</serverPort><!--central logging端口号 -->
 	</appender>
 
