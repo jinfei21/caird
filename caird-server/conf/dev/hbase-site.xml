@@ -3,7 +3,7 @@
 <configuration>
 	<property>
 		<name>hbase.zookeeper.quorum</name>
-		<value>192.168.81.176,192.168.81.177,192.168.81.178</value>
+		<value>ip,ip</value>
 		<description>Comma separated list of servers in the ZooKeeper Quorum.
 			For example,
 			"host1.mydomain.com,host2.mydomain.com,host3.mydomain.com".
